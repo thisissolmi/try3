@@ -6,7 +6,9 @@ public class Word {
     private String word;
     private String meaning;
 
-    Word() {}
+    Word() {
+
+    }
     Word(int id, int level, String word, String meaning) { // 아이템 번호, 레벨, 단어, 뜻
         this.id = id;
         this.level = level;
