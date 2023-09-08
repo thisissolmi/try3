@@ -1,6 +1,8 @@
 # try3
-# 실전프로젝트 hw1
-# 코드는 master 브랜치에 있습니다.
+## 실전프로젝트 hw1
+## 코드는 master 브랜치에 있습니다.
+
+* * *
 
 <p align="center">
  <img width="384" alt="image3" src="https://github.com/thisissolmi/try3/assets/106761251/fa4f9b83-cbb7-4aad-bea2-404a2649c968">
