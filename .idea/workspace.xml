@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b692a193-6d86-407d-9151-6e0fd0fde480" name="Changes" comment="커밋 테스트">
+    <list default="true" id="b692a193-6d86-407d-9151-6e0fd0fde480" name="Changes" comment="Edit Wording">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "thisissolmi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6e2218d2-8d9d-4264-9d1d-eb3ce351dbb5" />
+        <option name="url" value="https://github.com/thisissolmi/try3.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -65,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694166151223</updated>
-      <workItem from="1694166152524" duration="3018000" />
+      <workItem from="1694166152524" duration="3255000" />
     </task>
     <task id="LOCAL-00001" summary="CRUD finish">
       <option name="closed" value="true" />
@@ -107,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694169142032</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Edit Wording">
+      <option name="closed" value="true" />
+      <created>1694169295385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694169295385</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CRUD finish" />
     <MESSAGE value="커밋 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="커밋 테스트" />
+    <MESSAGE value="Edit Wording" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit Wording" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -136,15 +161,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/mycom/word/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/mycom/word/ICRUD.java</url>
-          <line>3</line>
-          <properties class="com.mycom.word.ICRUD" method="add">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
