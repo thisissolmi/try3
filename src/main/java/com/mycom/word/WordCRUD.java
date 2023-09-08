@@ -35,7 +35,7 @@ public class WordCRUD implements ICRUD {
     public void addItem() { //추가하기
         Word one = (Word)add();
         list.add(one);
-        System.out.println("\n새 단어가 단어장 추가되었습니다 ~!~!\n");
+        System.out.println("\n새 단어가 단어장 추가되었습니다. \n");
 
     }
 
@@ -57,7 +57,7 @@ public class WordCRUD implements ICRUD {
     public ArrayList<Integer> listAll(String keyword) { //ArrayList를 사용하여 리스트 뽑기
         ArrayList<Integer> idlist = new ArrayList<>();
         int j =0;
-        System.out.println("\n--------------------------");
+        System.out.println("\n\n--------------------------");
         for(int i = 0; i<list.size(); i++ ) {
             String word = list.get(i).getWord();
             if(!word.contains(keyword)) continue;
@@ -66,18 +66,18 @@ public class WordCRUD implements ICRUD {
             idlist.add(i);
             j++;
         }
-        System.out.println("--------------------------\n");
+        System.out.println("--------------------------\n\n");
         return idlist;
 
     }
 
     public void listAll() { //리스트 모두 뽑기
-        System.out.println("--------------------------");
+        System.out.println("\n\n--------------------------");
         for(int i = 0; i<list.size(); i++ ) {
             System.out.print((i+1) + " ");
             System.out.println(list.get(i).toString());
         }
-        System.out.println("--------------------------");
+        System.out.println("--------------------------\n\n");
 
     }
 
@@ -104,7 +104,7 @@ public class WordCRUD implements ICRUD {
         int id = s.nextInt();
         s.nextLine();
 
-        System.out.print("=> 정말로 삭제하실래요?(Y/n) ");
+        System.out.print("=> 정말로 삭제하실래요? (Y/n) ");
         String ans = s.next();
         if(ans.equalsIgnoreCase("y")) {
             list.remove((int)idlist.get(id-1));
