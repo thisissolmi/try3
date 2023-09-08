@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b692a193-6d86-407d-9151-6e0fd0fde480" name="Changes" comment="CRUD finish">
+    <list default="true" id="b692a193-6d86-407d-9151-6e0fd0fde480" name="Changes" comment="커밋 테스트">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
@@ -45,10 +45,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/kimsolmi/Desktop/2023-2/try3/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694166151223</updated>
-      <workItem from="1694166152524" duration="1586000" />
+      <workItem from="1694166152524" duration="2870000" />
     </task>
     <task id="LOCAL-00001" summary="CRUD finish">
       <option name="closed" value="true" />
@@ -75,15 +76,51 @@
       <option name="project" value="LOCAL" />
       <updated>1694167508213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="커밋 테스트">
+      <option name="closed" value="true" />
+      <created>1694167803859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694167803859</updated>
+    </task>
+    <task id="LOCAL-00003" summary="커밋 테스트">
+      <option name="closed" value="true" />
+      <created>1694167880973</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694167880973</updated>
+    </task>
+    <task id="LOCAL-00004" summary="커밋 테스트">
+      <option name="closed" value="true" />
+      <created>1694167901493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694167901493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CRUD finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="CRUD finish" />
+    <MESSAGE value="커밋 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="커밋 테스트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -92,6 +129,15 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/mycom/word/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycom/word/ICRUD.java</url>
+          <line>3</line>
+          <properties class="com.mycom.word.ICRUD" method="add">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
