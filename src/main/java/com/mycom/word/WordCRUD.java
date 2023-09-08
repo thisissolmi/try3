@@ -1,6 +1,6 @@
 package com.mycom.word;
 
-import com.mycom.word.ICRUD;
+//import com.mycom.word.ICRUD;
 
 import java.util.ArrayList;
 import java.util.Scanner;

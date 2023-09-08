@@ -1,5 +1,6 @@
 package com.mycom.word;
-import com.mycom.word.WordCRUD;
+
+//import com.mycom.word.WordCRUD;
 
 import java.util.Scanner;
 
