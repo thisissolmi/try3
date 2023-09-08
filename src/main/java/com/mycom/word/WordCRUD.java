@@ -41,8 +41,6 @@ public class WordCRUD implements ICRUD {
 
     @Override
     public int update(Object obj) { //업데이트하기
-
-        // TODO Auto-generated method stub
         return 0;
     }
 
