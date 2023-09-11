@@ -1,10 +1,11 @@
 package com.mycom.word;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.io.FileWriter;
+
+
 
 public class WordCRUD implements ICRUD {
     ArrayList<Word> list;
@@ -124,7 +125,7 @@ public class WordCRUD implements ICRUD {
             int count = 0;
 
             while (true) {
-                line = br.readLine();
+                line = br.readLine();//한 줄 씩 읽어옴
                 if (line == null) break;
 
                 String data[] = line.split("\\|"); // 앞에 \\를 넣어줘야해
@@ -136,6 +137,20 @@ public class WordCRUD implements ICRUD {
             }
             br.close();
             System.out.println("==>" + count + "개 로딩 완료~!~!");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void saveFile() {
+        try {
+            PrintWriter pr = new PrintWriter(new FileWriter(fname));
+            for(Word one : list) {
+                pr.write(one.toFileString() + "\n");
+            }
+            pr.close();
+            System.out.println("==> 데이터 저장 완료!!!!!");
+
         } catch (IOException e) {
             e.printStackTrace();
         }
