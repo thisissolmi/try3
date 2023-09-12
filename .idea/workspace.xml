@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b692a193-6d86-407d-9151-6e0fd0fde480" name="Changes" comment="before file i/o">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
@@ -84,7 +82,7 @@
       <updated>1694166151223</updated>
       <workItem from="1694166152524" duration="4467000" />
       <workItem from="1694266127816" duration="167000" />
-      <workItem from="1694427505742" duration="6253000" />
+      <workItem from="1694427505742" duration="7526000" />
     </task>
     <task id="LOCAL-00001" summary="CRUD finish">
       <option name="closed" value="true" />
@@ -165,16 +163,5 @@
     <MESSAGE value="Edit Wording" />
     <MESSAGE value="before file i/o" />
     <option name="LAST_COMMIT_MESSAGE" value="before file i/o" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/mycom/word/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

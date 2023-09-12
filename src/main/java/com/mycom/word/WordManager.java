@@ -54,6 +54,10 @@ public class WordManager {
             else if(menu == 7 ) { // delete
                 wordCRUD.saveFile();
             }
+            else if(menu ==2 ){
+                wordCRUD.searchlevel();
+            }
+
         }
 
     }
