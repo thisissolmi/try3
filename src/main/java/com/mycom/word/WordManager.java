@@ -57,6 +57,9 @@ public class WordManager {
             else if(menu ==2 ){
                 wordCRUD.searchlevel();
             }
+            else if(menu == 3){
+                wordCRUD.searchWord();
+            }
 
         }
 
