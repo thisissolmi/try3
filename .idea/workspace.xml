@@ -6,7 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="b692a193-6d86-407d-9151-6e0fd0fde480" name="Changes" comment="before file i/o">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Menu1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu1_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu4_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu7.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +91,7 @@
       <updated>1694166151223</updated>
       <workItem from="1694166152524" duration="4467000" />
       <workItem from="1694266127816" duration="167000" />
-      <workItem from="1694427505742" duration="17110000" />
+      <workItem from="1694427505742" duration="17681000" />
     </task>
     <task id="LOCAL-00001" summary="CRUD finish">
       <option name="closed" value="true" />
