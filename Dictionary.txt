@@ -18,7 +18,7 @@
 1|stock|주식, 재고
 1|eye-opener|눈이 휘둥그레질 만한 사건, 놀라운 경험
 2|graceful|우아한
-3|seagull|갈매기
+3|seagull|갈매기기 
 2|tightly|단단히
 2|webbed|물갈퀴가 있는
 2|thoughtlessly|생각 없이
