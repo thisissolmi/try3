@@ -1,7 +1,7 @@
 # try3
 ## 실전프로젝트 hw1
 ## 코드는 master 브랜치에 있습니다.
-
+##   - - - - 중간 보고서 제출 - - - -
 * * *
 
 <p align="center">
@@ -10,3 +10,4 @@
 <img width="362" alt="Image2" src="https://github.com/thisissolmi/try3/assets/106761251/690b0b7e-015b-424e-8f67-f9c7201d7ad3">
 </p>
 
+##   - - - - 기말 보고서 제출 - - - - 
