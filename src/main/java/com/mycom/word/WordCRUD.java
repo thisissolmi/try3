@@ -54,8 +54,8 @@ public class WordCRUD implements ICRUD {
     }
 
     @Override
-    public int selectOne(int id) { //선택하기
-        return 0;
+    public void selectOne(int id){
+
     }
 
     public ArrayList<Integer> listAll(String keyword) { //ArrayList를 사용하여 리스트 뽑기

@@ -29,3 +29,4 @@
 2|crouch|쪼그리고 앉다
 3|proclaim|공언하다, 선포하다
 1| apple|사과 
+1| pink|puck
